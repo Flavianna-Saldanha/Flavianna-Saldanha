@@ -4,14 +4,15 @@
 
 
 <div align="center">
-  <img src="https://flavianna-saldanha.github.io/Portfolio/src/img/foto-ap.png" height="250" />
+  <img src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif" />
 </div>
+
 
 ---
 
 <p align="center">
-  💡 Desenvolvedora Front-End | 🎨 Apaixonada por criar interfaces web intuitivas <br>
-  📚 Estudante constante e apaixonada por transformar ideias em soluções reais. <br>
+  ### 💡 Desenvolvedora Front-End | 🎨 Apaixonada por criar interfaces web intuitivas <br>
+  ### 📚 Estudante constante e apaixonada por transformar ideias em soluções reais. <br>
 </p>
 
 ---
