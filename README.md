@@ -11,8 +11,8 @@
 ---
 
 <p align="center">
-  ### 💡 Desenvolvedora Front-End | 🎨 Apaixonada por criar interfaces web intuitivas <br>
-  ### 📚 Estudante constante e apaixonada por transformar ideias em soluções reais. <br>
+  ##💡 Desenvolvedora Front-End | 🎨 Apaixonada por criar interfaces web intuitivas <br>
+  ##📚 Estudante constante e apaixonada por transformar ideias em soluções reais. <br>
 </p>
 
 ---
