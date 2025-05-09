@@ -15,10 +15,6 @@
   📚 Estudante constante e apaixonada por transformar ideias em soluções reais. <br>
 </p>
 
----
-
-### 🚀 Tech Stack
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
@@ -26,9 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
 </div>
 
----
-
-### 🌐 Vamos nos conectar
 
 <p align="center">
   <a href="flaviannasaldanhadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=B620F7"></a>
