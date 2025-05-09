@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=B620F7&center=true&vCenter=true&repeat=false&width=480&lines=✨+Olá%2C+seja+bem-vindo(a)+ao+meu+GitHub!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=B620F7&center=true&vCenter=true&repeat=false&width=480&lines=%E2%9C%A8+Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+GitHub%21+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
+
 <div align="center">
-  <img src="https://flavianna-saldanha.github.io/Portfolio/src/img/foto-ap.png" height="180" />
+  <img src="https://flavianna-saldanha.github.io/Portfolio/src/img/foto-ap.png" height="250" />
 </div>
 
 ---
