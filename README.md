@@ -36,15 +36,6 @@
   <a href="https://www.instagram.com/saldanha.dev/"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=B620F7"></a>
 </p>
 
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-  <a href="https://github.com/Flavianna-Saldanha" target="_blank" style="text-align: center; flex: 1 1 45%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flavianna-Saldanha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavianna-Saldanha&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
-  </a>
-</div>
-
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
