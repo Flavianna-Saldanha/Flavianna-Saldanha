@@ -21,6 +21,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/npm/react-icon@1.0.0/lib/index.min.js" height="30" />
+  <img src="https://cdn.jsdelivr.net/npm/@deemlol/next-icons@0.1.9/build/index.min.js" height="30" />
+  <img src="https://cdn.jsdelivr.net/npm/phosphor-icons-tailwindcss@1.2.2/src/plugin.min.js" height="30" />
 </div>
 
 <br>
