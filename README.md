@@ -3,9 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=e7858b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+FLAVIANNA;WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Flavianna-Saldanha&show_icons=true&count_private=true&hide_border=true&title_color=ff9148&icon_color=ff9148&text_color=9d1d1d&bg_color=E7858B"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavianna-Saldanha&layout=compact&hide_border=true&title_color=ff9148&text_color=ff9148&bg_color=E7858B"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Flavianna-Saldanha&show_icons=true&count_private=true&hide_border=true&title_color=000&icon_color=ff9148&text_color=9d1d1d&bg_color=f8ecd4"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavianna-Saldanha&layout=compact&hide_border=true&title_color=000&text_color=9d1d1d&bg_color=f8ecd4"/>
 </div>
+
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flavianna-Saldanha&bg_color=0d1117&color=fb047b&line=E7858B&point=ffbde0&area=true&hide_border=true&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
