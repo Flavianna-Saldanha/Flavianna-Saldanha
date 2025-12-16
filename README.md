@@ -12,10 +12,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flavianna-Saldanha&bg_color=0d1117&color=fb047b&line=E7858B&point=ffbde0&area=true&hide_border=true&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Flavianna-Saldanha&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
   <a href="flaviannasaldanhadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=fb047b"></a>
   <a href="https://www.linkedin.com/in/flavianna-saldanha/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=fb047b"></a>
   <a href="https://www.instagram.com/saldanha.dev/"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=fb047b"></a>
