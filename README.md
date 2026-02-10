@@ -23,9 +23,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-001117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=001117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-001117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=001117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-001117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=001117)&nbsp;
+![Material UI](https://img.shields.io/badge/-Material%20UI-001117?style=for-the-badge&logo=mui&logoColor=007FFF)
 ![React](https://img.shields.io/badge/-React-001117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=001117)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.js-001117?style=for-the-badge&logo=next.js&logoColor=white&labelColor=001117)&nbsp;
-
+![MySQL](https://img.shields.io/badge/-MySQL-001117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=001117)
 
 
 <picture align="center">
