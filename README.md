@@ -28,7 +28,7 @@
 ![React](https://img.shields.io/badge/-React-001117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=001117)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.js-001117?style=for-the-badge&logo=next.js&logoColor=white&labelColor=001117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-001117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=001117)
-![Power BI](https://img.shields.io/badge/-Power%20BI-001117?style=for-the-badge&logo=power-bi&logoColor=F2C811&labelColor=001117)
+![Power BI](https://img.shields.io/badge/-Power%20BI-001117?style=for-the-badge&logo=microsoft&logoColor=F2C811&labelColor=001117)
 
 
 <picture align="center">
