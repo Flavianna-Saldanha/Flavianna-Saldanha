@@ -9,7 +9,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flavianna-Saldanha&bg_color=0d1117&color=fb047b&line=E7858B&point=ffbde0&area=true&hide_border=true&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Flavianna-Saldanha=Ashutosh00710_border=true&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <a href="flaviannasaldanhadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=fb047b"></a>
