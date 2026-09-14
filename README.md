@@ -4,7 +4,7 @@
 
 <div align="center">
   <img width="38%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Flavianna-Saldanha&layout=compact&hide_border=true&title_color=000&text_color=9d1d1d&bg_color=f8ecd4"/>
-  <img width="43%" height="195px" src="https://github-stats-extended.vercel.app/api?username=Flavianna-Saldanha&show_icons=true&count_private=true&hide_border=true&title_color=000&icon_color=000&text_color=9d1d1d&bg_color=f8ecd4"/>
+  <img width="42.5%" height="195px" src="https://github-stats-extended.vercel.app/api?username=Flavianna-Saldanha&show_icons=true&count_private=true&hide_border=true&title_color=000&icon_color=000&text_color=9d1d1d&bg_color=f8ecd4"/>
 </div>
 
 <br>
