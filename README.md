@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=e7858b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+FLAVIANNA;WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Flavianna-Saldanha&layout=compact&hide_border=true&title_color=000&text_color=9d1d1d&bg_color=f8ecd4"/>
-  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=Flavianna-Saldanha&show_icons=true&count_private=true&hide_border=true&title_color=000&icon_color=000&text_color=9d1d1d&bg_color=f8ecd4"/>
+  <img width="36%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Flavianna-Saldanha&layout=compact&hide_border=true&title_color=000&text_color=9d1d1d&bg_color=f8ecd4"/>
+  <img width="44%" height="195px" src="https://github-stats-extended.vercel.app/api?username=Flavianna-Saldanha&show_icons=true&count_private=true&hide_border=true&title_color=000&icon_color=000&text_color=9d1d1d&bg_color=f8ecd4"/>
 </div>
 
 <br>
